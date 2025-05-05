@@ -1,25 +1,7 @@
 # Worker
 
-<p align="center">
-	<a href="https://goreportcard.com/report/github.com/MontFerret/worker">
-		<img alt="Go Report Status" src="https://goreportcard.com/badge/github.com/MontFerret/worker">
-	</a>
-<!-- 	<a href="https://codecov.io/gh/MontFerret/worker">
-		<img alt="Code coverage" src="https://codecov.io/gh/MontFerret/worker/branch/master/graph/badge.svg" />
-	</a> -->
-	<a href="https://discord.gg/kzet32U">
-		<img alt="Discord Chat" src="https://img.shields.io/discord/501533080880676864.svg">
-	</a>
-	<a href="https://github.com/MontFerret/worker/releases">
-		<img alt="Lab release" src="https://img.shields.io/github/release/MontFerret/worker.svg">
-	</a>
-	<a href="https://opensource.org/licenses/Apache-2.0">
-		<img alt="Apache-2.0 License" src="http://img.shields.io/badge/license-Apache-brightgreen.svg">
-	</a>
-</p>
-
 **Worker** is a simple HTTP server that accepts FQL queries, executes them and returns their results.
-OpenAPI v2 schema can be found [here](https://raw.githubusercontent.com/MontFerret/cli/master/reference/ferret-worker.yaml).
+OpenAPI v2 schema can be found [here](https://github.com/molly1022/Web-Scraping/blob/main/reference/ferret-worker.yaml).
 
 ## Quick start
 
@@ -51,7 +33,7 @@ make
 
 And then just make a POST request:
 
-![worker](https://raw.githubusercontent.com/MontFerret/worker/master/assets/postman.png)
+![worker](https://github.com/molly1022/Web-Scraping/blob/main/assets/postman.png)
 
 ## System Resource Requirements
 - 2 CPU
